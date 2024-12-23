@@ -1,4 +1,3 @@
-# picow_esp32
 # Smart Environmental Monitoring System
 
 ## Overview
